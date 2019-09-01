@@ -1,0 +1,11 @@
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp2.1\MyConsoleApp.deps.json
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp2.1\MyConsoleApp.runtimeconfig.json
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp2.1\MyConsoleApp.runtimeconfig.dev.json
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp2.1\MyConsoleApp.dll
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp2.1\MyConsoleApp.pdb
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp2.1\MyConsoleApp.csprojAssemblyReference.cache
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp2.1\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp2.1\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp2.1\MyConsoleApp.AssemblyInfo.cs
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp2.1\MyConsoleApp.dll
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp2.1\MyConsoleApp.pdb
